@@ -123,8 +123,7 @@ nav.whatsNew a {
   margin-top: 7px;
 }
 .tickreader {
-  background-color: #f7e4b5;
-  margin: 1px 0;
+  background-color: #d69904;
 }
 ul.breadcrumb {
   padding: 5px 16px;
@@ -735,3 +734,17 @@ div.upcoming_container {
   bottom: 0;
   right: 20px;
 }
+footer .f2 {
+  border-top: 1px solid #ccc;
+  background: #3f7cac;
+}
+footer .f2 p {
+  color: #8ba8ba;
+  padding: 15px 0;
+  margin: 0;
+  font-size: 14px;
+  margin-right: 10em;
+  display: inline-block;
+  float: left;
+}
+

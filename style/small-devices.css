@@ -1,0 +1,15 @@
+@media only screen and (max-device-width: 480px) {
+    .mt-2, .my-2 {
+         margin-top: 0rem!important; 
+    }    
+    .site-branding h1 a img {
+        height: 60px;
+    }
+    .mid-section .container .row{
+        display: inline-block;
+    }
+    .exampleSearch{
+        width: 100%;
+        margin: 0px -15px 0 0;
+    }
+}

@@ -78,6 +78,7 @@ limitations under the License.
   color: #fff !important;
   text-decoration: none;
   z-index: inherit;
+  font-size: .9em;
 }
 
 .accessible-megamenu > .accessible-megamenu-top-nav-item a[aria-expanded]:hover,
@@ -215,7 +216,7 @@ limitations under the License.
 .accessible-megamenu .accessible-megamenu-panel a {
   display: inline-block;
   font-size: 0.92em;
-  line-height: 1em;
+  line-height: 1.5em;
   text-decoration: none;
   color: #225fd7;
   font-weight: bold;
@@ -226,6 +227,7 @@ limitations under the License.
 
 .accessible-megamenu .accessible-megamenu-panel.cols-4 {
   width: 1112px;
+  background: #d8f1fe;
 }
 
 .accessible-megamenu .accessible-megamenu-panel.cols-4 > ol > li {
