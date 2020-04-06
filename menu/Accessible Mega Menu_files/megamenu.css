@@ -493,6 +493,9 @@ limitations under the License.
     height: auto;
     overflow: visible;
     visibility: visible;
+    height: 56px;
+    background: #274c77;
+    border-bottom: 2px solid #3f7cac;
   }
 
   .accessible-megamenu {
