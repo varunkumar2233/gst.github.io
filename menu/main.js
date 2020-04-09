@@ -27,6 +27,8 @@ if (jQuery) {
             setTimeout(function () {
                 $('body').removeClass('init');
             }, 500);
+           
         });
+        
     }(jQuery));
 }
